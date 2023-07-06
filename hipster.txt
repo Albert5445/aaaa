@@ -1,0 +1,5 @@
+Git is a distributed version control system commonly used for managing source code and tracking changes in software development projects. It was created by Linus Torvalds in 2005 to help manage the development of the Linux kernel. Git allows multiple developers to collaborate on a project, making it easier to track and merge changes made by different people.
+
+In simple terms, Git keeps track of changes to files over time. It allows developers to create branches, which are independent lines of development, to work on new features or bug fixes without affecting the main codebase. Developers can make changes to their branch, commit those changes, and then merge them back into the main codebase when they are ready.
+
+
